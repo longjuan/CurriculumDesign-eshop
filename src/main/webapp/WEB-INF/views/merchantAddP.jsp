@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>商品详情-${product.pname}</title>
+<title>商品增加</title>
 <meta charset="utf-8" />
 <link href="../css/header.css" rel="stylesheet" type="text/css">
 <script src="../jquery/jquery.min.js"></script>
